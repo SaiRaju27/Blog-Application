@@ -1,4 +1,4 @@
-# Blog-Application backend
+**Blog-Application backend**
 
 
 Building Rest APIs for Blogging application and technologies used :
@@ -9,7 +9,7 @@ Building Rest APIs for Blogging application and technologies used :
  ->Spring Data JPA(Hibernate)
  ->MySQL DB
 
-Functionalities included in project :
+**Functionalities included in project :**
  ->Creating Rest endpoints
  ->Complex DB structure(JPA Entites)
  ->Role based authentication
@@ -19,7 +19,7 @@ Functionalities included in project :
  ->How to add profiles for different environments
  ->How to deploy spring booot in productions
 
- Tools:
+**Tools:**
  ->STS (IDE)
  ->MYSQL
  ->Postman
