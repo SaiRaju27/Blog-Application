@@ -57,3 +57,5 @@ Swagger
 
 AWS EC2 
  ->Deploy application
+ER - Diagram
+ ->Structure of DB designing it in (app.diagrams.net)
