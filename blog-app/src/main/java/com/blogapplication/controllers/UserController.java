@@ -70,8 +70,4 @@ public class UserController {
 		return new ResponseEntity(new ApiResponse("User deleted successfully",true),HttpStatus.OK);
 		
 	}
-	
-	
-	
-
 }
