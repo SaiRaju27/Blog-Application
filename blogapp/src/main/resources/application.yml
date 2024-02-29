@@ -14,3 +14,6 @@ spring:
       dialect: org.hibernate.dialect.MySQL8Dialect
       ddl-auto: update
     show-sql : true
+  banner:
+    location : classpath:banner.txt
+    charset : UTF-8
